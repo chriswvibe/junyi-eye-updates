@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "junyi-eye@ai-tutor.local": {
+      "updates": [
+        {
+          "version": "0.1.7",
+          "update_link": "https://raw.githubusercontent.com/chriswvibe/junyi-eye-updates/main/junyi-eye-0.1.7.xpi"
+        }
+      ]
+    }
+  }
+}
